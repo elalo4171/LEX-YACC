@@ -1,5 +1,5 @@
 # Lex y Yacc
-Comandos para crear y ejecutar
+Comandos para crear y ejecutar en Ubuntu 
 
 ```
 lex calc.l
